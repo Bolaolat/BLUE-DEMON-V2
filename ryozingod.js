@@ -465,9 +465,9 @@ const setting = db.data.settings[botNumber]
 console.error(err)
 }
 //=================================================//
-const nulll = fs.readFileSync(`./media/blue.mp4`)
+const nulll = fs.readFileSync(`./media/nulll.jpg`)
 const mengkece = fs.readFileSync(`./media/mengkece.jpg`)
-const overlaid = fs.readFileSync(`./media/blue.mp4`)
+const overlaid = fs.readFileSync(`./media/overlaid.jpg`)
 const overpix = fs.readFileSync(`./media/overpix.png`)
 const latx = fs.readFileSync(`./media/latx.png`)
 const fakedoc = fs.readFileSync(`./src/bruhhh.apk`)
